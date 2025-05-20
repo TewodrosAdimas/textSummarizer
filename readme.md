@@ -5,7 +5,6 @@
 
 This is a simple Streamlit app that summarizes long texts into 3–5 concise bullet points using a pre-trained transformer model from Hugging Face.
 
-![Screenshot](<Screenshot from 2025-05-14 17-08-03.png>)
 
 ---
 
